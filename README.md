@@ -11,12 +11,13 @@ trends and patterns within the art museum.
 The dataset used for this analysis was gotten from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings), and was
 inspired by [techTFQ](https://www.youtube.com/channel/UCnz-ZXXER4jOvuED5trXfEA/videos?view_as=subscriber)
 
-
 ## Some SQL Functions Used
 - Joins: Utilized to combine data from multiple tables based on related columns.
 - Subqueries: Used to nest one query within another to retrieve data or perform calculations.
 - Common Table Expressions (CTEs): Employed to create temporary result sets for use within the main query.
 - Window Functions: Applied to perform calculations across a set of rows related to the current row within a query result.
+
+[**SQL Code Analysis**](https://github.com/Codewithimisi/Art-Museum-Dataset-Analysis/blob/main/MySQL%20Code%20Analysis.sql)
 
 ## Problem Statements
 #### 1) Retrieve paintings not displayed in museums.
