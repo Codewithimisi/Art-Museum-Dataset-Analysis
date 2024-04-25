@@ -1,4 +1,4 @@
-# Art-Museum-Dataset-Analysis
+# Art-Museums-Dataset-Analysis
 
 ## Project Overview
 
