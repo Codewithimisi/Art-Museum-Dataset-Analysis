@@ -5,7 +5,7 @@
 This project involves analyzing a dataset containing details about paintings, museums, artists, and related attributes.
 The dataset encompasses a wide range of queries, including identifying popular paintings, analyzing museum information, 
 and exploring artist statistics. The project aims to extract insights and perform various data operations to understand 
-trends and patterns within the art museum.
+trends and patterns within the art world.
  
 ## Data Source
 The dataset used for this analysis was gotten from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings), and was
