@@ -8,8 +8,7 @@ and exploring artist statistics. The project aims to extract insights and perfor
 trends and patterns within the art world.
  
 ## Data Source
-The dataset used for this analysis was gotten from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings), and was
-inspired by [techTFQ](https://www.youtube.com/channel/UCnz-ZXXER4jOvuED5trXfEA/videos?view_as=subscriber)
+The dataset used for this analysis was gotten from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings).
 
 ## Some SQL Functions Used
 - Joins: Utilized to combine data from multiple tables based on related columns.
